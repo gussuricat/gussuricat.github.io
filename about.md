@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
-published: true
+published: false
 ---
 
 My name is Catarina Soeiro (she/her) and I am an aspiring Japanese to English, Japanese to Portuguese translator. I am particularly interested in video game translation and localization. Additionally, I am also interested in working in LGBT+ projects, including Yuri/Shoujo-ai manga and anime. (I'm also open to R18+ projects!)
